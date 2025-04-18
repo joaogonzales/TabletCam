@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <PublishUrlHistory>G:\Meu Drive\PublishLocal\TFMusic\|G:\Meu Drive\Publish\TFMusic\|http://localhost/Publish/TFMusic/|C:\Publish\TFMusic\</PublishUrlHistory>
+    <InstallUrlHistory>http://localhost/Publish/TFMusic/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://ti-79/Publish/TFMusic/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
